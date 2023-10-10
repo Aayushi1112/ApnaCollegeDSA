@@ -1,0 +1,12 @@
+package numbergame;
+
+import java.util.Scanner;
+
+public class ReverseNUm {
+	public static void main(String args[]) {
+		Scanner sc=new Scanner();
+		int number=sc.nextInt();
+		
+	}
+
+}
